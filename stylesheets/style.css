@@ -1,0 +1,28 @@
+h1 {
+  font-size: 28px;
+  font-family: "Inder",Helvetica, Arial, sans-serif;
+  color: #FFF;
+  line-height: 3.096;
+  text-align: center;
+}
+h2 {
+  font-size: 24px;
+  font-family: "Inder", Helvetica, Arial, sans-serif;
+  color: #f57305;
+  line-height: 1.083;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  font-family: "Inder",Helvetica, Arial, sans-serif;
+  color: #333;
+  line-height: 1;
+  text-align: center;
+}
+h3 {
+  font-size: 24px;
+  font-family: "Inder", Helvetica, Arial, sans-serif;
+  color: #FFF;
+  line-height: 2.417;
+  text-align: center;
+}
